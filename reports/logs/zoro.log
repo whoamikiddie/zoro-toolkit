@@ -1,0 +1,72 @@
+{"message": "[*] Target domain: afot.in", "timestamp": "2025-02-28T10:48:17.007939"}
+{"message": "[*] Using 4 workers", "timestamp": "2025-02-28T10:48:17.008094"}
+{"action": "recon_start", "domain": "afot.in", "timestamp": "2025-02-28T10:48:17.013020"}
+{"message": "Starting DNS interrogation for afot.in", "timestamp": "2025-02-28T10:48:17.013690"}
+{"message": "Performing WHOIS lookup for afot.in", "timestamp": "2025-02-28T10:48:17.014275"}
+{"message": "Timeout resolving afot.in (MX)", "timestamp": "2025-02-28T10:48:19.017125"}
+{"message": "Completed DNS interrogation for afot.in", "timestamp": "2025-02-28T10:48:19.462515"}
+{"message": "WHOIS lookup error for afot.in: [Errno -3] Temporary failure in name resolution", "timestamp": "2025-02-28T10:48:27.028796"}
+{"dns": "A \u2192 172.67.213.196", "timestamp": "2025-02-28T10:48:27.032418"}
+{"dns": "A \u2192 104.21.75.48", "timestamp": "2025-02-28T10:48:27.032526"}
+{"message": "[*] Running subfinder...", "timestamp": "2025-02-28T10:48:27.032736"}
+{"message": "[*] Running assetfinder...", "timestamp": "2025-02-28T10:48:27.033483"}
+{"message": "[+] Assetfinder found 4 subdomains", "timestamp": "2025-02-28T10:48:29.647521"}
+{"message": "[+] Subfinder found 4 subdomains", "timestamp": "2025-02-28T10:49:25.709370"}
+{"message": "\n[+] Total unique subdomains discovered: 4", "timestamp": "2025-02-28T10:49:25.709557"}
+{"message": "\n[*] Verifying 4 discovered subdomains...", "timestamp": "2025-02-28T10:49:25.709605"}
+{"message": "\n[+] Summary:", "timestamp": "2025-02-28T10:49:25.710133"}
+{"message": "    - Total discovered: 4", "timestamp": "2025-02-28T10:49:25.710325"}
+{"message": "    - Alive subdomains: 0", "timestamp": "2025-02-28T10:49:25.710378"}
+{"action": "save_json_error", "filename": "complete_analysis", "error": "Object of type set is not JSON serializable", "timestamp": "2025-02-28T10:49:25.710939"}
+{"message": "[+] Reconnaissance completed successfully", "timestamp": "2025-02-28T10:49:25.715435"}
+{"message": "[*] Target domain: panimalar.ac.in", "timestamp": "2025-02-28T10:58:32.059919"}
+{"message": "[*] Using 4 workers", "timestamp": "2025-02-28T10:58:32.060074"}
+{"action": "recon_start", "domain": "panimalar.ac.in", "timestamp": "2025-02-28T10:58:32.063872"}
+{"message": "Starting DNS interrogation for panimalar.ac.in", "timestamp": "2025-02-28T10:58:32.064477"}
+{"message": "Performing WHOIS lookup for panimalar.ac.in", "timestamp": "2025-02-28T10:58:32.064853"}
+{"message": "Timeout resolving panimalar.ac.in (MX)", "timestamp": "2025-02-28T10:58:34.067524"}
+{"message": "Completed DNS interrogation for panimalar.ac.in", "timestamp": "2025-02-28T10:58:34.694978"}
+{"message": "WHOIS lookup error for panimalar.ac.in: timed out", "timestamp": "2025-02-28T10:58:42.544768"}
+{"dns": "A \u2192 188.245.68.247", "timestamp": "2025-02-28T10:58:42.549145"}
+{"message": "[*] Running subfinder...", "timestamp": "2025-02-28T10:58:42.549427"}
+{"message": "[*] Running assetfinder...", "timestamp": "2025-02-28T10:58:42.551539"}
+{"message": "[+] Assetfinder found 30 subdomains", "timestamp": "2025-02-28T10:58:58.737951"}
+{"message": "[+] Subfinder found 19 subdomains", "timestamp": "2025-02-28T10:59:02.626064"}
+{"message": "\n[+] Total unique subdomains discovered: 30", "timestamp": "2025-02-28T10:59:02.626259"}
+{"message": "\n[*] Verifying 30 discovered subdomains...", "timestamp": "2025-02-28T10:59:02.626309"}
+{"message": "\n[+] Summary:", "timestamp": "2025-02-28T10:59:02.627990"}
+{"message": "    - Total discovered: 30", "timestamp": "2025-02-28T10:59:02.628089"}
+{"message": "    - Alive subdomains: 0", "timestamp": "2025-02-28T10:59:02.628122"}
+{"action": "save_json_error", "filename": "complete_analysis", "error": "Object of type set is not JSON serializable", "timestamp": "2025-02-28T10:59:02.628416"}
+{"message": "[+] Reconnaissance completed successfully", "timestamp": "2025-02-28T10:59:02.631601"}
+{"message": "[*] Target domain: panimalar.ac.in", "timestamp": "2025-02-28T11:27:26.297016"}
+{"message": "[*] Using 4 workers", "timestamp": "2025-02-28T11:27:26.297433"}
+{"action": "recon_start", "domain": "panimalar.ac.in", "timestamp": "2025-02-28T11:27:26.302272"}
+{"message": "Starting DNS interrogation for panimalar.ac.in", "timestamp": "2025-02-28T11:27:26.302797"}
+{"message": "Performing WHOIS lookup for panimalar.ac.in", "timestamp": "2025-02-28T11:27:26.303242"}
+{"message": "Timeout resolving panimalar.ac.in (NS)", "timestamp": "2025-02-28T11:27:28.304877"}
+{"message": "Completed DNS interrogation for panimalar.ac.in", "timestamp": "2025-02-28T11:27:30.416057"}
+{"message": "[*] Target domain: panimalar.ac.in", "timestamp": "2025-02-28T20:45:43.228041"}
+{"message": "[*] Using 4 workers", "timestamp": "2025-02-28T20:45:43.228659"}
+{"action": "recon_start", "domain": "panimalar.ac.in", "timestamp": "2025-02-28T20:45:43.233235"}
+{"message": "Starting DNS interrogation for panimalar.ac.in", "timestamp": "2025-02-28T20:45:43.233674"}
+{"message": "Performing WHOIS lookup for panimalar.ac.in", "timestamp": "2025-02-28T20:45:43.234007"}
+{"message": "Timeout resolving panimalar.ac.in (AAAA)", "timestamp": "2025-02-28T20:45:45.236523"}
+{"message": "Timeout resolving panimalar.ac.in (MX)", "timestamp": "2025-02-28T20:45:45.236718"}
+{"message": "Timeout resolving panimalar.ac.in (NS)", "timestamp": "2025-02-28T20:45:45.236773"}
+{"message": "Timeout resolving panimalar.ac.in (TXT)", "timestamp": "2025-02-28T20:45:45.236825"}
+{"message": "Too many consecutive failures, backing off for 2 seconds", "timestamp": "2025-02-28T20:45:45.236878"}
+{"message": "Timeout resolving panimalar.ac.in (SOA)", "timestamp": "2025-02-28T20:45:47.237006"}
+{"message": "Completed DNS interrogation for panimalar.ac.in", "timestamp": "2025-02-28T20:45:52.240951"}
+{"dns": "A \u2192 188.245.68.247", "timestamp": "2025-02-28T20:45:52.245360"}
+{"message": "[*] Running subfinder...", "timestamp": "2025-02-28T20:45:52.245648"}
+{"message": "[*] Running assetfinder...", "timestamp": "2025-02-28T20:45:52.247513"}
+{"message": "[+] Assetfinder found 30 subdomains", "timestamp": "2025-02-28T20:45:59.573675"}
+{"message": "[+] Subfinder found 30 subdomains", "timestamp": "2025-02-28T20:47:23.340002"}
+{"message": "\n[+] Total unique subdomains discovered: 30", "timestamp": "2025-02-28T20:47:23.340656"}
+{"message": "\n[*] Verifying 30 discovered subdomains...", "timestamp": "2025-02-28T20:47:23.340785"}
+{"message": "\n[+] Summary:", "timestamp": "2025-02-28T20:47:23.343439"}
+{"message": "    - Total discovered: 30", "timestamp": "2025-02-28T20:47:23.343581"}
+{"message": "    - Alive subdomains: 0", "timestamp": "2025-02-28T20:47:23.343634"}
+{"action": "save_json_error", "filename": "complete_analysis", "error": "Object of type set is not JSON serializable", "timestamp": "2025-02-28T20:47:23.344255"}
+{"message": "[+] Reconnaissance completed successfully", "timestamp": "2025-02-28T20:47:23.349100"}

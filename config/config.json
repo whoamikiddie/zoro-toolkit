@@ -1,0 +1,32 @@
+{
+    "dns_servers": [
+        "8.8.8.8",
+        "8.8.4.4",
+        "1.1.1.1",
+        "1.0.0.1"
+    ],
+    "threading": {
+        "max_threads": 50,
+        "subdomain_batch_size": 100,
+        "dns_timeout": 2,
+        "http_timeout": 10
+    },
+    "ssl": {
+        "verify": true,
+        "bypass_verification": true,
+        "verify_hostname": false
+    },
+    "rate_limits": {
+        "requests_per_second": 10,
+        "time_window": 1
+    },
+    "retry": {
+        "max_retries": 3,
+        "backoff_factor": 1.5
+    },
+    "error_handling": {
+        "max_consecutive_failures": 5,
+        "failure_delay": 2,
+        "ignore_ssl_errors": true
+    }
+}

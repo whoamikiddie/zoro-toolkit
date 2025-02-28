@@ -1,0 +1,13 @@
+{
+    "creation_date": "2003-05-20 23:13:12",
+    "domain_name": "panimalar.ac.in",
+    "emails": null,
+    "expiration_date": "2028-05-20 23:13:12",
+    "name_servers": [
+        "ns1.sixthstar.in",
+        "ns2.sixthstar.in"
+    ],
+    "org": null,
+    "registrar": "ERNET India",
+    "status": "ok http://www.icann.org/epp#OK"
+}

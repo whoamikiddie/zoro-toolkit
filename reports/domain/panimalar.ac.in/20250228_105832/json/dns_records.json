@@ -1,0 +1,24 @@
+{
+    "A": [
+        "188.245.68.247"
+    ],
+    "AAAA": [],
+    "MX": [],
+    "NS": [
+        "<ares_query_ns_result> host=ns1.sixthstar.in, ttl=-1",
+        "<ares_query_ns_result> host=ns4.sixthstar.in, ttl=-1",
+        "<ares_query_ns_result> host=ns2.sixthstar.in, ttl=-1",
+        "<ares_query_ns_result> host=ns3.sixthstar.in, ttl=-1"
+    ],
+    "REVERSE_DNS": {
+        "188.245.68.247": [
+            "srv.sixthstar.in."
+        ]
+    },
+    "SOA": [],
+    "TXT": [
+        "MS=ms34947040",
+        "v=spf1 ip4:188.245.68.247 ip4:209.58.180.102 +a +mx include:_spf.google.com ~all",
+        "google-site-verification=aM1hzyjsV7XEY6l69OkIwkZFKWG8kwT8jxCP0hCJu-o"
+    ]
+}
